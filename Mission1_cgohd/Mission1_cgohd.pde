@@ -1,5 +1,7 @@
 size (1080, 720);
 
+background (#ffffff);
+
 fill (5, 5, 70);
 stroke(10,225,235);
 strokeWeight (20);
